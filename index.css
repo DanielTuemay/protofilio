@@ -1,0 +1,30 @@
+body{
+    padding: 25px;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+  body{
+    background-color:rgb(24,25,50);
+    color: white;
+    
+  }
+  a{
+    text-decoration:none;
+    color: white;
+  }
+  ul{
+    display: flex;
+    flex-direction: row;
+  }
+  #logo{
+    align-items: left;
+    border-radius: 50%;
+   background-color:rgb(100,75,75);
+   height: 50px;
+    width:50px;
+  }
+  li{
+    margin: 10px;
+    padding: 5px;
+  }
